@@ -15,8 +15,8 @@ def reverse_each_word(sentence)
     # with a space between each array, or each word
   sentence_array.each do |words|
     # operates each on the new sentence_array 
-    "#{words.reverse}" 
-    # prints out the reversed sentence_array
+    "#{words.reverse}" = 
+    #
   end
 end
 
