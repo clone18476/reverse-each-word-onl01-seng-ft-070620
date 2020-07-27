@@ -14,7 +14,7 @@ def reverse_each_word(sentence)
     # upon ending the collect, it joins together the new array into a string
     # with a space between each array, or each word
   sentence_array.each do |words|
-    #
+    # operates each on the new sentence_array 
     "#{words.reverse}" = 
     #
   end
